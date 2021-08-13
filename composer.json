@@ -12,13 +12,13 @@
             "src/helpers.php"
         ],
         "psr-4": {
-            "Osen\\Airtel\\": "src/"
+            "Stephencoduor\\Airtel-africa\\": "src/"
         }
     },
-    "description": "Airtel SDK for PHP Applications. Just Plug 'N Play",
+    "description": "Airtel SDK for PHP Applications",
     "license": "MIT",
     "minimum-stability": "dev",
-    "name": "stephencoduor/airtel",
+    "name": "stephencoduor/airtel-africa",
     "readme": "README.md",
     "require": {
         "php": ">=7.3",
@@ -26,7 +26,7 @@
     },
     "support": {
         "email": "hi@osen.co.ke",
-        "issues": "https://github.com/stephencoduor/airtel/issues"
+        "issues": "https://github.com/stephencoduor/airtel-africa/issues"
     },
     "type": "library"
 }
