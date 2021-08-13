@@ -9,7 +9,7 @@ composer require stephencoduor\airtel-africa
 ## Collection APIs
 ### Instantiate
 ```php
-use Osen\Airtel\Collection;
+
 
 use stephencoduor\airtel-africa\Collection;
 $collectAPI = new Collection(
