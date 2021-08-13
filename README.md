@@ -3,15 +3,16 @@ Airtel Africa Money API PHP SDK
 
 ## Installation
 ```bash
-composer require stephencoduor\airtel-africa
+composer require stephencoduor\airtel
 ```
 
 ## Collection APIs
 ### Instantiate
+
 ```php
 
 
-use stephencoduor\airtel-africa\Collection;
+use Stephencoduor\Airtel\Collection;
 $collectAPI = new Collection(
     array(
         'env'           => 'live',
@@ -42,8 +43,9 @@ $collectAPI->authorize($token, function($newToken) {
 ```
 
 ## Disbursement APIs
+
 ```php
-use stephencoduor\airtel-africa\Disbursement;
+use Stephencoduor\Airtel\Disbursement;
 
 $disburseAPI = new Disbursement(
     array(

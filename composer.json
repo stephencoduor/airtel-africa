@@ -12,13 +12,13 @@
             "src/helpers.php"
         ],
         "psr-4": {
-            "Stephencoduor\\Airtel-africa\\": "src/"
+            "Stephencoduor\\Airtel\\": "src/"
         }
     },
     "description": "Airtel SDK for PHP Applications",
     "license": "MIT",
     "minimum-stability": "dev",
-    "name": "stephencoduor/airtel-africa",
+    "name": "stephencoduor/airtel",
     "readme": "README.md",
     "require": {
         "php": ">=7.3",

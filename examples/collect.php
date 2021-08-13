@@ -1,5 +1,5 @@
 <?php
-use Osen\Airtel\Collection;
+use Stephencoduor\Airtel\Collection;
 
 $collectAPI = new Collection(
     array(

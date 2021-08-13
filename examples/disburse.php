@@ -1,5 +1,5 @@
 <?php
-use Osen\Airtel\Disbursement;
+use Stephencoduor\Airtel\Disbursement;
 
 $disburseAPI =  new Disbursement(
     array(

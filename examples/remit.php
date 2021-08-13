@@ -1,5 +1,5 @@
 <?php
-use Osen\Airtel\Remittance;
+use Stephencoduor\Airtel\Remittance;
 
 $remitAPI = new Remittance(
     array(
