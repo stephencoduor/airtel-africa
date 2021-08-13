@@ -1,6 +1,7 @@
 <?php
 
 namespace Osen\Airtel;
+stephencoduor\airtel-africa
 
 use Exception;
 use GuzzleHttp\Client;

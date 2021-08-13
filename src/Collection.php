@@ -1,6 +1,6 @@
 <?php
 
-namespace Osen\Airtel;
+namespace stephencoduor\airtel-africa;
 
 use GuzzleHttp\Exception\BadResponseException;
 
