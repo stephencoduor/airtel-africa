@@ -21,8 +21,7 @@
     "name": "stephencoduor/airtel",
     "readme": "README.md",
     "require": {
-        "php": ">=7.3",
-        "guzzlehttp/guzzle": ">=7.3"
+        "php": ">=7.3"
     },
     "support": {
         "email": "hi@osen.co.ke",
